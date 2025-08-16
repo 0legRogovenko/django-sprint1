@@ -154,5 +154,5 @@ yap_testing
 html/img/img/
 
 # Исключения из ревью
-blogicum/html/
-blogicum/static/css/
+html/
+blogicum/static/
